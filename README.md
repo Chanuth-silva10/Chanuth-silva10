@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://project-blogger-738ad.firebaseapp.com/](https://project-blogger-738ad.firebaseapp.com/)
 
-- 📫 How to reach me **chanuthmaduka1986@gmail.com**
+- 📫 How to reach me **kumaramaduka57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
