@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DevOps Concepts**
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+- 👯 I’m looking to collaborate on **Open Source Project  **
 
 - 👨‍💻 All of my projects are available at [https://chanuth-portfolio-2025.netlify.app/](https://chanuth-portfolio-2025.netlify.app/)
 
