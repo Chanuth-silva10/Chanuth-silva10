@@ -2,17 +2,17 @@
 <h3 align="center">A passionate full-stack software engineer</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Associate Software Engineer at Wenthura Solutions**
+- 🔭 I’m currently working on **Software Engineer at Wenthura Solutions**
 
 - 🌱 I’m currently learning **DevOps Concepts**
 
-- 👯 I’m looking to collaborate on **Open Source Project  **
+- 👯 I’m looking to collaborate on **Open Source Project  ** and ** Practice Machine Learning **
 
-- 👨‍💻 All of my projects are available at [https://chanuth-portfolio-2025.netlify.app/](https://chanuth-portfolio-2025.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://chanuth-portfolio-2025.netlify.app/](https://chanuth-portfolio-2025.netlify.app)
 
-- 📝 I regularly write articles on [https://project-blogger-738ad.firebaseapp.com/](https://project-blogger-738ad.firebaseapp.com/)
+- 📝 I regularly write articles on [https://project-blogger-738ad.firebaseapp.com/](https://project-blogger-738ad.firebaseapp.com)
 
-- 📫 How to reach me **kumaramaduka57@gmail.com**
+- 📫 How to reach me **chanuth.silva2025@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
