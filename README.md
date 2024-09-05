@@ -8,9 +8,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project  ** and ** Practice Machine Learning **
 
-- 👨‍💻 All of my projects are available at [https://chanuth-portfolio-2025.netlify.app/](https://chanuth-portfolio-2025.netlify.app)
+- 👨‍💻 All of my projects are available at [https://chanuth-portfolio-2025.netlify.app](https://chanuth-portfolio-2025.netlify.app)
 
-- 📝 I regularly write articles on [https://project-blogger-738ad.firebaseapp.com/](https://chanuth-silva-project-blog.onrender.com)
+- 📝 I regularly write articles on [https://chanuth-silva-project-blog.onrender.com](https://chanuth-silva-project-blog.onrender.com)
 
 - 📫 How to reach me **chanuth.silva2025@gmail.com**
 
