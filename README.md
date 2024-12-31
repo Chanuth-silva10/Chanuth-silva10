@@ -2,9 +2,9 @@
 <h3 align="center">A passionate full-stack software engineer</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I worked on **Software Engineer at Wenthura Solutions**
+- 🔭 I am working on **Software Engineer at Acentura Inc (Pvt) Ltd**
 
-- 🌱 I’m currently learning **DevOps Concepts with cloud services**
+- 🌱 I’m currently learning **DevOps Concepts with Cloud Services**
 
 - 👯 I’m looking to collaborate on **Open Source Project  ** and ** Practice Machine Learning **
 
